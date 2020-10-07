@@ -1,0 +1,61 @@
+.title-bar{
+	background-color: #009286;
+	height: 30px;
+}
+
+img{
+	width:30%;
+	height:100%;
+}
+
+h3,h6,h5{
+	color: #009286;
+}
+
+#login{
+	margin:auto;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 10px;
+}
+
+.btn{
+	background-color: #009286;
+	color: white;
+	font-weight: bold;
+	font-size: medium;
+}
+
+.btn:hover{
+	color:white;
+}
+
+#forgotButton{
+	border: 1px solid #009286;
+	background: transparent;
+	border-radius: 5px;
+}
+
+#forgotButton:hover{
+	background-color: #009286;
+	color: white;
+	font-size: medium;
+}
+
+.footer{
+	text-align: center;
+	background-color: #DCDCDC;
+	margin: 0px auto;
+
+}
+
+footer a{
+	color: black;
+	text-decoration: underline;
+}
+
+footer a:hover{
+	color: #009286;
+}
+
+	
